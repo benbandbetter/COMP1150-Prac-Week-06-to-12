@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/Assets/HDRPDefaultResources
+/Assets/iLearn Environment Kit
+/Assets/Terrain
+/Assets/TerrainSampleAssets
+/Assets/GrassFlowers
+/Assets/Ground textures pack
